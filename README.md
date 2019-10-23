@@ -1,1 +1,3 @@
 # shopifyNodeApp
+SHOPIFY_API_KEY=""
+SHOPIFY_API_SECRET=""
